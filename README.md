@@ -1,5 +1,5 @@
 # code_for_fun_graph_lesson
-A custom challenge I created for my students.
+A custom challenge I created for my students at Code for Fun ( https://www.codeforfun.com/ )
 
 In this challege, students must create a XY graph. Then once the graph is done, they have four challenges to complete.
 

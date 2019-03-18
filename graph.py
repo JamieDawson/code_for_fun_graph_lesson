@@ -40,7 +40,7 @@ t.circle(10)
 t.up()
 t.goto(-100,-100)
 t.down()
-t.color("Yellow")
+t.color("purple")
 for i in range(3):
   t.forward(30)
   t.left(120)

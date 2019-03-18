@@ -8,3 +8,6 @@ In this challege, students must create a XY graph. Then once the graph is done, 
 3) Create a yellow triangle in the bottom left section.
 4) Create a green square in the top left position.
 
+
+The final product should look like this:
+<img width="471" alt="Screen Shot 2019-03-18 at 11 27 49 AM" src="https://user-images.githubusercontent.com/16840579/54554748-6d474f00-4972-11e9-90a2-f47accc0a33a.png">
